@@ -1,0 +1,58 @@
+
+body{
+    background-color:rgb(112, 112, 231);
+    align-content: center;
+    justify-content: center;
+}
+.container{
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+   margin-top: 130px;
+   margin-left: 430px;
+   border-radius: 8px;
+   box-shadow:  0 6px 20px 0 rgba(0, 0, 0, 0.3);
+}
+
+ 
+.header > h1{
+    text-align: center;
+    font-family:  cursive;
+    font-size: 30px;
+    padding-top: 10px;
+   
+    
+}
+
+.body_container{
+    height: 180px;
+    width: 180px;
+    border-radius: 8px;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: antiquewhite;
+    margin-left: 160px;
+    margin-top: 60px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+#emojiDisplay{
+  font-size: 120px;
+  
+}
+ 
+
+#generateButton{
+    height: 50px;
+    width: 250px;
+    font-size: 30px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: aliceblue;
+    margin-left: 125px;
+    margin-top: 35px;
+    font-family: cursive;
+     
+}
